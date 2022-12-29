@@ -33,4 +33,5 @@
 Отчет по лабораторной работе доступен по ссылке:[ЛР3.pdf](https://github.com/MoTblJlek/Internet_Tehnology/files/10318408/3.pdf)  
   
 ✅Экзаменационный билет  
-  
+  Ответ на экзаменационный билет: [Билет №31] https://github.com/stankin/inet-2022/wiki/exam31  
+  Ответ на экзаменационный билет: [Diff] https://github.com/stankin/inet-2022/wiki/exam31/_compare/0d226c09c8f85aae446fcd74f2bc747962b9a23c
